@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Memento-Morii
+- 👋 Hi, I’m Yafet R. Alemayehu
 - 👀 I’m interested in Website and Mobile App Development
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me @yafet_retta on twitter
+- 📫 How to reach me www.linkedin.com/in/yafet-r-alemayehu on LinkedIn
 
 <!---
 Memento-Morii/Memento-Morii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
