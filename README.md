@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yafet R. Alemayehu
 - 👀 I’m interested in Website and Mobile App Development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning IoT with Arduino
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me www.linkedin.com/in/yafet-r-alemayehu on LinkedIn
 
