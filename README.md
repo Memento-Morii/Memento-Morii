@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yafet R. Alemayehu
-- 👀 I’m interested in Website and Mobile App Development
-- 🌱 I’m currently learning IoT with Arduino
+- 👀 I’m a Full-Stack Developer with 4+ years of experience in Website and Mobile App Development
+- 🌱 Spring Boot (Java), React and Node (JavaScript) , Dart (Flutter), SQL, MongoDB are the langauages and framework I have worked on.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me www.linkedin.com/in/yafet-r-alemayehu on LinkedIn
 
